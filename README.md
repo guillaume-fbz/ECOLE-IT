@@ -17,6 +17,7 @@ Don't forget to give the project a star! Thanks again!
 
 - guillaume-fbz
 - kilian-mlz
+- enzopoussin
 
 ## License
 
