@@ -17,7 +17,7 @@ Don't forget to give the project a star! Thanks again!
 
 - guillaume-fbz
 - kilian-mlz
-
+-Nabil-bbs
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
